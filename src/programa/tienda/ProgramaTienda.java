@@ -1,4 +1,4 @@
-package ProgramaTienda ;
+package programa.tienda ;
 import java.util.Scanner;
 
 public class ProgramaTienda {
